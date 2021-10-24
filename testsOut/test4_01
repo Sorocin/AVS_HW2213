@@ -5,4 +5,4 @@ Container contains 6 elements.
 2: This is cartoon: type = PLASTICINE. Name = , year of release = 2020. Task result: 7.890625
 3: This is documentary: duration = 120. Name = Undying, year of release = 2021. Task result: 7.894531
 4: This is Game: producers name = Sasha. Name = Time, year of release = 2010. Task result: 7.851562
-5: This is Game: producers name = Spounge. Name = Sorockin, year of release = 2. Task result: 0.007812
+5: This is Game: producers name = Spounge. Name = Sorockin, year of release = 2005. Task result: 0.007812
