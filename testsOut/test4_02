@@ -1,0 +1,8 @@
+Sorted container:
+Container contains 6 elements.
+0: This is Game: producers name = Spounge. Name = Sorockin, year of release = 2. Task result: 0.007812
+1: This is documentary: duration = 60. Name = Chtivo, year of release = 2000. Task result: 7.812500
+2: This is cartoon: type = PUPPET. Name = Come, year of release = 2009. Task result: 7.847656
+3: This is Game: producers name = Sasha. Name = Time, year of release = 2010. Task result: 7.851562
+4: This is cartoon: type = PLASTICINE. Name = , year of release = 2020. Task result: 7.890625
+5: This is documentary: duration = 120. Name = Undying, year of release = 2021. Task result: 7.894531
