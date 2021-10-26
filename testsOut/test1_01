@@ -1,4 +1,5 @@
 Filled container:
-Container contains 2 elements.
+Container contains 3 elements.
 0: This is documentary: duration = 120. Name = Son, year of release = 2005. Task result: 7.832031
 1: This is documentary: duration = 150. Name = Mentor, year of release = 2020. Task result: 7.890625
+2: This is cartoon: type = DRAW. Name = Patrick, year of release = 2010. Task result: 7.851562
